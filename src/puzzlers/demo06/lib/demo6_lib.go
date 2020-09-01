@@ -2,7 +2,7 @@ package lib
 
 import (
 	"os"
-	in "puzzlers/article3/q4/lib/internal"
+	in "puzzlers/demo06/lib/internal"
 )
 
 func Hello(name string) {
